@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocialLogin</string>
+
+    <string name="facebook_application_id" translatable="false">1955821214509381</string>
+
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1955821214509381</string>
+
+    <string name="twitter_consumer_key" translatable="false">Jqul6blNvBAOswM1E9OEYxydp</string>
+
+    <string name="twitter_consumer_secret" translatable="false">NRIecnJBQGOreAVgB7oVTtw34prKaXMeSIdlyN0xWWFhX5DNdz</string>
+</resources>
