@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SignOut"></activity>
+        <activity android:name=".SignOut" />
+        <activity android:name=".TaskActivity"></activity>
     </application>
 
 </manifest>

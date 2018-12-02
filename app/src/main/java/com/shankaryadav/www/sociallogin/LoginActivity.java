@@ -25,6 +25,7 @@ public class LoginActivity extends AppCompatActivity {
         
         if (mAuth.getCurrentUser () !=  null){
             startActivity (new Intent (LoginActivity.this,SignOut.class));
+            finish ();
             Toast.makeText (this, "user is signed in", Toast.LENGTH_SHORT).show ();
         }else{
             Toast.makeText (this, "user is not signed in please click on the button", Toast.LENGTH_SHORT).show ();
